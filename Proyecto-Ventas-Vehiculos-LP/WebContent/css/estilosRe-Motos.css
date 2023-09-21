@@ -1,0 +1,41 @@
+
+
+/*estilo del formulario lo movimos a la iZquierda un 60%*/
+
+	
+/*estilos del borde de el formulario*/
+
+.shadow-box {
+	width:187px;
+	height:300px ;
+	 border: 1px solid #0062cc; /* Borde */
+  border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 2px 2px 20px rgba(5,0,0,0.3); /* Sombra */
+  padding: 20px; /* Espacio interno */
+
+  /* Estilos adicionales para un aspecto elegante */
+  background-color: #fff; /* Color de fondo */
+  color: #333; /* Color del texto */
+  
+  margin-right: 40%;
+}
+#formulario{
+	margin-left: 10%;
+	
+}
+h1{
+	margin-right: 65%;
+	color:#002c44;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/*estilos del formulario*/
+
+.tabla{
+	height: 280px;
+}
+.place{
+	color:#0062cc;
+}
+
+
